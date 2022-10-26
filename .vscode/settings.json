@@ -1,7 +1,6 @@
 {
   // editor
   "editor.wordWrap": "on",
-  "editor.lineHeight": 30,
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
@@ -31,5 +30,4 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "window.zoomLevel": 1
 }
